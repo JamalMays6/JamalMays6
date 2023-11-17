@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Azure Sentinel Home Lab](https://github.com/JamalMays6/SIEM-AzureSentinelLab)
-- [Nessus: Vulnerability Management Lab](https://github.com/JamalMays6/LABURL)
+- [OpenVAS: Vulnerability Management Lab](https://github.com/JamalMays6/LABURL)
+- [Azure Cloud Detection Lab](https://github.com/JamalMays6/LABURL)
 
 <h2>📄 Certifications</h2>
 

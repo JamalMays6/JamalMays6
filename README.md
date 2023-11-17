@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Azure Sentinel Honeynet Lab](https://github.com/JamalMays6/SIEM-AzureSentinelLab)
-- [OpenVAS: Vulnerability Management Lab](https://github.com/JamalMays6/LABURL)
-- [Azure Cloud Detection Lab](https://github.com/JamalMays6/LABURL)
+- [OpenVAS: Vulnerability Management Lab](https://github.com/JamalMays6/OpenVAS-Vulnerability-Management/tree/main)
+- [Azure Cloud Threat Detection Lab](https://github.com/JamalMays6/LABURL)
 
 <h2>📄 Certifications</h2>
 

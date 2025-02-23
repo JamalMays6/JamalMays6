@@ -1,10 +1,18 @@
-<h1>Hi, I'm Jamal! <br/><a href="https://www.linkedin.com/in/jamal-mays/">Cybersecurity Professional</a>
+# <a href="https://www.linkedin.com/in/jamal-mays/">Jamal Mays</a>' IT and Cybersecurity Project Portfolio 🔐
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+I'm passionate about cybersecurity and enjoy solving complex challenges through hands-on projects. Whether it's vulnerability management or threat detection, these projects give me the opportunity to explore the dynamic world of cybersecurity. Take a look and see how I've worked to strengthen security operations and processes!
 
-- [Azure Sentinel Honeynet Lab](https://github.com/JamalMays6/SIEM-AzureSentinelLab)
-- [OpenVAS: Vulnerability Management Lab](https://github.com/JamalMays6/OpenVAS-Vulnerability-Management/tree/main)
-- [Azure Cloud Threat Detection Lab](https://github.com/JamalMays6/LABURL)
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/JamalMays6/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/JamalMays6/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JamalMays6/threat-hunting-scenario-tor)**
+- **[Azure Cloud Threat Detection Lab](https://github.com/JamalMays6/LABURL)**
+- **[Azure Sentinel Honeynet Lab](https://github.com/JamalMays6/SIEM-AzureSentinelLab)**
 
 <h2>📄 Certifications</h2>
 

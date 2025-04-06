@@ -14,6 +14,10 @@ I'm passionate about cybersecurity and enjoy solving complex challenges through 
 - **[Azure Cloud Threat Detection Lab](https://github.com/JamalMays6/LABURL)**
 - **[Azure Sentinel Honeynet Lab](https://github.com/JamalMays6/SIEM-AzureSentinelLab)**
 
+## 🗳️ RPA Project
+- **[Early Voting Ballot Tracking with Power Automate](https://github.com/JamalMays6/ballot-tracking)**
+
+
 <h2>📄 Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/earner/earned/badge/f50e653f-9af8-4834-bdbf-3c5ddac114bd)

@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and enjoy solving complex challenges through 
 - **[Azure Cloud Threat Detection Lab](https://github.com/JamalMays6/LABURL)**
 - **[Azure Sentinel Honeynet Lab](https://github.com/JamalMays6/SIEM-AzureSentinelLab)**
 
-## 🗳️ RPA Project
+## 🗳️ RPA Projects
 
 - **[Early Voting Ballot Tracking with Power Automate](https://github.com/JamalMays6/ballot-tracking)**
 

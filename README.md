@@ -17,7 +17,7 @@ I'm passionate about cybersecurity and enjoy solving complex challenges through 
 ## 🗳️ RPA Projects
 
 - **[Early Voting Ballot Tracking with Power Automate](https://github.com/JamalMays6/Ballot-Tracking)**
-- **[Onboarding Bot with UiPath](https://github.com/JamalMays6/Employee-Onboarding)**
+- **[Employee Onboarding Bot (UiPath)](https://github.com/JamalMays6/Employee-Onboarding)**
 
 ## <h2>📄 Certifications</h2>
 

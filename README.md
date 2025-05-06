@@ -6,13 +6,10 @@ I'm passionate about cybersecurity and enjoy solving complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/JamalMays6/Vulnerability-Management-Program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/JamalMays6/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JamalMays6/threat-hunting-scenario-tor)**
-- **[Azure Cloud Threat Detection Lab](https://github.com/JamalMays6/LABURL)**
-- **[Azure Sentinel Honeynet Lab](https://github.com/JamalMays6/SIEM-AzureSentinelLab)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JamalMays6/threat-hunting-scenario-tor)** 🔭 I’m currently working on ... 
 
 ## 🗳️ RPA Projects
 

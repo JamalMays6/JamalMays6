@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/jamal-mays/">Jamal Mays</a>' IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and enjoy solving complex challenges through hands-on projects. Whether it's vulnerability management or threat detection, these projects give me the opportunity to explore the dynamic world of cybersecurity. Take a look and see how I've worked to strengthen security operations and processes!
+I'm passionate about cybersecurity and enjoy solving complex challenges through hands-on projects. Whether it's vulnerability management, threat detection, or robotic process automation these projects give me the opportunity to explore the dynamic world of technology and cybersecurity. Take a look and see how I've worked to strengthen security operations and processes!
 
 
 ## ⚠️ Vulnerability Management Projects

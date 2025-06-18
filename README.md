@@ -9,7 +9,8 @@ I'm passionate about cybersecurity and enjoy solving complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JamalMays6/threat-hunting-scenario-tor)** 🔭 I’m currently working on ... 
+- **[Threat Hunting Scenario (Devices Exposed to the Internet)](https://github.com/JamalMays6/Devices-Exposed-to-the-Internet)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JamalMays6/threat-hunting-scenario-tor)** 🔭 I’m currently working on ...
 
 ## 🗳️ RPA Projects
 

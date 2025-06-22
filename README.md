@@ -20,7 +20,7 @@ I'm passionate about cybersecurity and enjoy solving complex challenges through 
 
 ## <h2>📄 Certifications</h2>
 
-- [CompTIA Security+](https://www.credly.com/earner/earned/badge/f50e653f-9af8-4834-bdbf-3c5ddac114bd)
+- **[CompTIA Security+](https://www.credly.com/earner/earned/badge/f50e653f-9af8-4834-bdbf-3c5ddac114bd)**
 
 <h2> 🤳 Connect with me:</h2>
 

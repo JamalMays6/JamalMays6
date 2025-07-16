@@ -11,7 +11,8 @@ I'm passionate about cybersecurity and enjoy solving complex challenges through 
 
 - **[Threat Hunting: Devices Exposed to the Internet](https://github.com/JamalMays6/Devices-Exposed-to-the-Internet)**
 - **[Threat Hunting: Sudden Network Slowness](https://github.com/JamalMays6/Sudden-Network-Slowness)**
-- **[Threat Hunting: Suspected Data Exfiltration](https://github.com/JamalMays6/Suspected-Data-Exfiltration)** 🔭 I’m currently working on ...
+- **[Threat Hunting: Suspected Data Exfiltration](https://github.com/JamalMays6/Suspected-Data-Exfiltration)**
+- **SOC Labs**🔭 I’m currently working on ...
 
 ## 🤖 RPA Projects
 

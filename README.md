@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and enjoy solving complex challenges through 
 - **[Threat Hunting: Suspected Data Exfiltration](https://github.com/JamalMays6/Suspected-Data-Exfiltration)**
 - **SOC Labs**🔭 I’m currently working on ...
 
-## 🤖 DevOps / RPA Projects 
+## 🤖 Cloud Engineer / DevOps 
 
 - **[Azure Static Website Hosting](https://github.com/JamalMays6/Static-Website)**
 - **[Early Voting Ballot Tracking with Power Automate](https://github.com/JamalMays6/Ballot-Tracking)**

@@ -17,8 +17,8 @@ I'm passionate about cybersecurity and enjoy solving complex challenges through 
 ## 🤖 Cloud Engineer / DevOps 
 
 - **[Azure Static Website Hosting](https://github.com/JamalMays6/Static-Website)**
-- **[Early Voting Ballot Tracking with Power Automate](https://github.com/JamalMays6/Ballot-Tracking)**
-- **[Employee Onboarding Bot (UiPath)](https://github.com/JamalMays6/Employee-Onboarding)**
+- **[Apache Misconfiguration Outage](https://github.com/JamalMays6/RiseUp-Bank-Apache-Outage)**
+- **[Apache Syntax Error](https://github.com/JamalMays6/RiseUp-Bank-Apache-Syntax-Outage)**
 
 ## <h2>📄 Certifications</h2>
 

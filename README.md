@@ -12,13 +12,14 @@ I'm passionate about cybersecurity and enjoy solving complex challenges through 
 - **[Threat Hunting: Devices Exposed to the Internet](https://github.com/JamalMays6/Devices-Exposed-to-the-Internet)**
 - **[Threat Hunting: Sudden Network Slowness](https://github.com/JamalMays6/Sudden-Network-Slowness)**
 - **[Threat Hunting: Suspected Data Exfiltration](https://github.com/JamalMays6/Suspected-Data-Exfiltration)**
-- **SOC Labs**🔭 I’m currently working on ...
 
 ## 🤖 Cloud Engineer / DevOps 
 
 - **[Azure Static Website Hosting](https://github.com/JamalMays6/Static-Website)**
 - **[Apache Misconfiguration Outage](https://github.com/JamalMays6/RiseUp-Bank-Apache-Outage)**
 - **[Apache Syntax Error](https://github.com/JamalMays6/RiseUp-Bank-Apache-Syntax-Outage)**
+- **Cloud Labs**🔭 I’m currently working on ...
+
 
 ## <h2>📄 Certifications</h2>
 

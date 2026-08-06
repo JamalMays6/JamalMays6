@@ -16,6 +16,7 @@ I'm passionate about cybersecurity and enjoy solving complex challenges through 
 ## 🤖 Cloud Engineer / DevOps 
 
 - **[Azure Active Directory Lab](https://github.com/JamalMays6/azure-ad-lab)**
+- **[Wireshark Network Analysis Lab](https://github.com/JamalMays6/Wireshark-Network-Analysis-Lab)**
 - **[Azure Linux VM Creation](https://github.com/JamalMays6/Creating-A-Virtual-Machine)**
 - **[Azure Migration](https://github.com/JamalMays6/RiseUp-Migration/tree/main/Project%201)**
 - **[Azure Static Website Hosting](https://github.com/JamalMays6/Static-Website)**

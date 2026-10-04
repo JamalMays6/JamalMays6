@@ -1,17 +1,6 @@
-# <a href="https://www.linkedin.com/in/jamal-mays/">Jamal Mays</a>' IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/jamal-mays/">Jamal Mays</a>' IT and Cloud Project Portfolio 🔐
 
-I'm passionate about cybersecurity and enjoy solving complex challenges through hands-on projects. Whether it's vulnerability management, threat detection, or robotic process automation these projects give me the opportunity to explore the dynamic world of technology and cybersecurity. Take a look and see how I've worked to strengthen security operations and processes!
-
-
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/JamalMays6/Vulnerability-Management-Program/tree/main)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting: Devices Exposed to the Internet](https://github.com/JamalMays6/Devices-Exposed-to-the-Internet)**
-- **[Threat Hunting: Sudden Network Slowness](https://github.com/JamalMays6/Sudden-Network-Slowness)**
-- **[Threat Hunting: Suspected Data Exfiltration](https://github.com/JamalMays6/Suspected-Data-Exfiltration)**
+I build and troubleshoot infrastructure in Azure, backed by a background in IT and four years of identity and access management. Every project here is hands-on: I deploy it, troubleshoot what breaks, and document the fix, from networking and DNS to Linux servers and Active Directory. Security isn't a separate track for me; it's part of how I build.
 
 ## 🤖 Cloud Engineer / DevOps 
 
@@ -23,6 +12,16 @@ I'm passionate about cybersecurity and enjoy solving complex challenges through 
 - **[Apache Misconfiguration Outage](https://github.com/JamalMays6/RiseUp-Bank-Apache-Outage)**
 - **[Apache Syntax Error](https://github.com/JamalMays6/RiseUp-Bank-Apache-Syntax-Outage)**
 - **Cloud Labs**🔭 I’m currently working on ...
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/JamalMays6/Vulnerability-Management-Program/tree/main)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting: Devices Exposed to the Internet](https://github.com/JamalMays6/Devices-Exposed-to-the-Internet)**
+- **[Threat Hunting: Sudden Network Slowness](https://github.com/JamalMays6/Sudden-Network-Slowness)**
+- **[Threat Hunting: Suspected Data Exfiltration](https://github.com/JamalMays6/Suspected-Data-Exfiltration)**
 
 
 ## <h2>📄 Certifications</h2>
